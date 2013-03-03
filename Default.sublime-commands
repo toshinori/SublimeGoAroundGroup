@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Go To Next Group",
+        "command": "go_around_next_group"
+    },
+    {
+        "caption": "Go To Previous Group",
+        "command": "go_around_previous_group"
+    }
+]

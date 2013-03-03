@@ -1,0 +1,3 @@
+[
+  { "keys": ["ctrl+w","ctrl+w"], "command": "go_around_next_group" }
+]
